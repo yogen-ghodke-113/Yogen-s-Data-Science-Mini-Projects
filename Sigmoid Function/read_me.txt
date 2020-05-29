@@ -1,0 +1,1 @@
+I plotted the sigmoid function using matplotlib to better understand logistic regression.
